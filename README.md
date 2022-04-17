@@ -7,6 +7,9 @@ nation. Governments in different countries have been trying their best to addres
 this problem and provide an optimal solution.
 
 ABOUT THE DATA (INFORMATION)
+
+
+
 The Data here consists of 32562 entries which is then divided intro
 14 columns which are:
 Age, Work class, Fnlwgt, Education,Educational-num, Marital, Occupation,Relationship, Race, Gender,
